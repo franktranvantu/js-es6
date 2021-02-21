@@ -1,5 +1,3 @@
-JavaScript has always been a forgiving language. 
+Concatenating strings in JavaScript has lead to a lot of confusion. 
 
-But, it’s lack of constraints has caused much confusion around block scoping and variable re-assignment. 
-
-In this section we’ll review two new variable types: let and const.
+With Template Strings we can safely construct strings with ease.
