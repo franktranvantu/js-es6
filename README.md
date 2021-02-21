@@ -1,3 +1,1 @@
-Concatenating strings in JavaScript has lead to a lot of confusion. 
-
-With Template Strings we can safely construct strings with ease.
+So long String.indexOf()! Now we can get a boolean value if a string contains our search text.
