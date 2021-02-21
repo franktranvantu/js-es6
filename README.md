@@ -1,7 +1,5 @@
-Learn the basics of the ECMAScript 2015, also known as ES6, JavaScript standard.
- 
-JavaScript has come a long way since it’s inception in 1995. 
+JavaScript has always been a forgiving language. 
 
-The ECMAScript 2015 specification brought a lot of improvements, the largest set of changes the language has seen to-date. 
+But, it’s lack of constraints has caused much confusion around block scoping and variable re-assignment. 
 
-In this course, we’ll review some of the new features and demonstrate how they can be used to build better JavaScript applications.
+In this section we’ll review two new variable types: let and const.
