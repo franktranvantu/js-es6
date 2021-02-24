@@ -1,1 +1,1 @@
-In this section we’ll look at the new Map object.
+Review what makes a class object, and what happens when a class is instantiated.
