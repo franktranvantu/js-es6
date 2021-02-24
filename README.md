@@ -1,1 +1,1 @@
-Learn how to create new classes based off of an existing class.
+What are static methods and how should they be used?
