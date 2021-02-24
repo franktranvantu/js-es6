@@ -1,1 +1,1 @@
-What are static methods and how should they be used?
+Getter and Setter methods have long been available in objects, but now they are available in classes, too!
