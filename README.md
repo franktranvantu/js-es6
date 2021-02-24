@@ -1,1 +1,1 @@
-Review what makes a class object, and what happens when a class is instantiated.
+Learn how to create new classes based off of an existing class.
