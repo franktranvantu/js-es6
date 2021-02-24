@@ -1,3 +1,3 @@
-Managing context in JavaScript has always been challenging. 
+Finally we’re able to set default values for function parameters like every other programming language. 
 
-Arrow functions will help ease the pain.
+We’ll review just how simple it is to use.
