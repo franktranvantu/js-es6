@@ -1,1 +1,3 @@
-Destructuring lets you break apart an array or object into variables. 
+Less code is better. 
+
+In this section we review the Object Property Shorthand and how it reduces your keystrokes.
