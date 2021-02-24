@@ -1,1 +1,3 @@
-So long String.indexOf()! Now we can get a boolean value if a string contains our search text.
+Managing context in JavaScript has always been challenging. 
+
+Arrow functions will help ease the pain.
