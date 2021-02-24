@@ -1,3 +1,5 @@
-Finally we’re able to set default values for function parameters like every other programming language. 
+Rest parameters let you specify an unknown number of parameters. 
 
-We’ll review just how simple it is to use.
+The spread operator lets you specify an unknown number of array properties. 
+
+In this section we’ll demonstrate how this is helpful.
